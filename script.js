@@ -61,5 +61,8 @@ jQuery('button').on('click', function(){
 	if(hui=="аниме "){
 		
 	}
+	else{
+		alert("Извини, но такого кода не существует...");
+	}
 });
 });
